@@ -9,7 +9,7 @@ Django==2.2.4
 django-configurations==2.1
 django-js-asset==1.2.2
 django-mptt==0.10.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 future==0.17.1
 idna==2.8
 importlib-metadata==0.23
